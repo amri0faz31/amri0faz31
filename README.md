@@ -68,7 +68,4 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amri0faz31&show_icons=true&locale=en&layout=compact" alt="amri0faz31" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amri0faz31&show_icons=true&locale=en" alt="amri0faz31" /></p>
-
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amri0faz31&show_icons=true&theme=dark&locale=en&layout=compact&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&hide_border=true" alt="amri0faz31" /> </p><p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=amri0faz31&show_icons=true&theme=dark&locale=en&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=58a6ff&hide_border=true" alt="amri0faz31" /> </p><p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=amri0faz31&theme=dark&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="amri0faz31" /> </p>
